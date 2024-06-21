@@ -3,7 +3,7 @@ document.getElementById('login-form').addEventListener('submit', function(event)
 });
 const btnLogin = document.getElementById('id_button');
 btnLogin.addEventListener('click', function() {
-  window.location.href = 'https://da6zin.github.io/'; 
+  window.location.href = 'https://da6zin.github.io/Fortes-Engenharia---Juliana/index.html#'; 
 });
 
 
