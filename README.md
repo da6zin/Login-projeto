@@ -1,4 +1,4 @@
-Eu não sabia que tinha como fazer um só repositório e colocar tudo lá, ai fiz um pra cada site!
+Eu não sabia que tinha como fazer um só repositório e colocar tudo lá, ai fiz um pra cada página do site! Peço desculpas!
 
 /*Login do projeto
 
