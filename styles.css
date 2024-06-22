@@ -129,10 +129,8 @@ input {
     cursor: pointer;
 }
 
-/* Estilo para o campo de email */
 #emailInput {
     width: calc(100% - 20px);
-    /* Ajuste o tamanho do campo de entrada */
     padding: 8px;
     margin: 8px 0;
     box-sizing: border-box;
